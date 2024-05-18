@@ -1,0 +1,101 @@
+IncidentSummary,ResolutionText,RootCause,HoursOfDowntime,OverallSeverity,CompanyAccountability,Department_DevOps,Department_IT,Department_Ops,Department_Security,PlatformType_Cloud,PlatformType_Database,PlatformType_Hardware,PlatformType_Web,Timestamp
+Security breach detected in user accounts,Replaced faulty disk and restored database from backup,Power outage,5.907702655549208,3,1,True,False,False,False,False,False,False,True,2024-03-21 16:36:21.240047
+Software bug causing intermittent crashes,Patched software to fix the bug,Software bug,5.658693393574395,1,1,True,False,False,False,False,False,True,False,2024-03-01 16:36:21.240047
+API response times increased during peak hours,Scaled up API servers to handle increased load,Security breach,8.177148712137438,3,1,True,False,False,False,False,False,True,False,2024-03-23 16:36:21.240047
+Software bug causing intermittent crashes,Fixed user authentication service,Memory leak,5.585098947413663,2,0,False,False,False,True,True,False,False,False,2024-05-04 16:36:21.240047
+API response times increased during peak hours,Scaled up API servers to handle increased load,Network congestion,7.574887617642211,4,0,False,True,False,False,False,False,True,False,2024-03-23 16:36:21.240047
+Network congestion leading to slow internet,Scaled up API servers to handle increased load,Software bug,26.871966456222335,4,1,False,False,True,False,False,False,False,True,2024-05-10 16:36:21.240047
+Software bug causing intermittent crashes,Restored power and restarted affected systems,Disk failure,9.704545843446892,4,0,False,False,True,False,False,True,False,False,2024-05-16 16:36:21.240047
+High latency observed during peak hours,Restored power and restarted affected systems,Network failure,4.722949303362873,1,1,False,False,True,False,False,False,False,True,2024-03-22 16:36:21.240047
+Software bug causing intermittent crashes,Replaced faulty disk and restored database from backup,Power outage,-0.7338141973903594,2,0,True,False,False,False,False,False,False,True,2024-03-09 16:36:21.240047
+Server outage caused by network failure,Patched software to fix the bug,Memory leak,7.590888032356599,4,1,False,True,False,False,False,False,False,True,2024-04-12 16:36:21.240047
+Software bug causing intermittent crashes,Replaced faulty disk and restored database from backup,Authentication service bug,7.369177281254201,4,1,True,False,False,False,False,True,False,False,2024-02-27 16:36:21.240047
+Server outage caused by network failure,Secured user accounts and investigated breach,Network congestion,6.808426103811852,2,0,True,False,False,False,False,False,False,True,2024-03-22 16:36:21.240047
+Power outage affecting data center operations,Scaled up API servers to handle increased load,Authentication service bug,6.734132127429417,2,1,False,True,False,False,True,False,False,False,2024-04-04 16:36:21.240047
+Database crash due to hardware issue,Patched software to fix the bug,Memory leak,2.173340284144364,1,0,False,False,True,False,True,False,False,False,2024-03-07 16:36:21.240047
+Database crash due to hardware issue,Optimized network traffic routing and cleared congestion,Spam filter issue,8.479892079146468,2,0,False,False,False,True,True,False,False,False,2024-04-27 16:36:21.240047
+Email service outage due to spam filter issue,Restored power and restarted affected systems,Resource bottleneck,8.582526632445411,4,0,False,False,True,False,False,True,False,False,2024-04-23 16:36:21.240047
+Email service outage due to spam filter issue,Fixed user authentication service,Disk failure,9.71217896735096,4,1,True,False,False,False,True,False,False,False,2024-05-14 16:36:21.240047
+API response times increased during peak hours,Replaced faulty disk and restored database from backup,Disk failure,8.231565292837987,4,1,False,True,False,False,True,False,False,False,2024-05-10 16:36:21.240047
+High latency observed during peak hours,Fixed user authentication service,Security breach,2.4328278806863337,2,0,False,False,False,True,False,False,True,False,2024-02-17 16:36:21.240047
+Network congestion leading to slow internet,Rebooted server and reset network configurations,Authentication service bug,3.742917264318511,1,0,False,False,True,False,True,False,False,False,2024-02-28 16:36:21.240047
+Email service outage due to spam filter issue,Fixed user authentication service,Hardware issue,11.363155614240306,1,1,False,False,True,False,False,True,False,False,2024-03-13 16:36:21.240047
+High latency observed during peak hours,Secured user accounts and investigated breach,Authentication service bug,3.730218273564994,4,1,False,True,False,False,False,False,True,False,2024-02-25 16:36:21.240047
+High latency observed during peak hours,Fixed memory leak and restarted application server,Network failure,10.43263896781873,1,1,True,False,False,False,False,False,True,False,2024-05-13 16:36:21.240047
+API response times increased during peak hours,Rebooted server and reset network configurations,Network congestion,5.089355296493522,3,0,False,False,True,False,False,False,False,True,2024-03-02 16:36:21.240047
+Memory leak in application server,Secured user accounts and investigated breach,Authentication service bug,7.948134223344015,2,0,False,False,True,False,False,True,False,False,2024-04-21 16:36:21.240047
+Email service outage due to spam filter issue,Rebooted server and reset network configurations,Authentication service bug,5.4486369026196355,3,1,True,False,False,False,False,False,False,True,2024-05-04 16:36:21.240047
+Database crash due to hardware issue,Restored power and restarted affected systems,Network failure,9.635586628704143,1,1,False,False,True,False,True,False,False,False,2024-04-16 16:36:21.240047
+Database crash due to hardware issue,Patched software to fix the bug,Security breach,7.996851515783939,2,0,False,False,False,True,False,False,True,False,2024-04-28 16:36:21.240047
+User login issues reported,Patched software to fix the bug,Power outage,2.2465572246958088,4,1,True,False,False,False,True,False,False,False,2024-02-18 16:36:21.240047
+Server outage caused by network failure,Scaled up resources to handle peak traffic,Authentication service bug,4.3553179142714065,1,0,True,False,False,False,True,False,False,False,2024-03-12 16:36:21.240047
+Network congestion leading to slow internet,Replaced faulty hardware components,Power outage,6.845330826073492,3,1,False,False,False,True,False,False,False,True,2024-04-12 16:36:21.240047
+Memory leak in application server,Replaced faulty disk and restored database from backup,Security breach,7.723427214220787,4,1,True,False,False,False,False,True,False,False,2024-03-20 16:36:21.240047
+Database crash due to hardware issue,Scaled up resources to handle peak traffic,Software bug,4.94504690943357,2,1,False,True,False,False,False,False,False,True,2024-03-20 16:36:21.240047
+High latency observed during peak hours,Replaced faulty disk and restored database from backup,Disk failure,2.8855845751950007,1,1,False,False,False,True,True,False,False,False,2024-03-21 16:36:21.240047
+Network congestion leading to slow internet,Replaced faulty disk and restored database from backup,Power outage,2.9316913717635096,4,1,False,True,False,False,False,True,False,False,2024-02-26 16:36:21.240047
+Email service outage due to spam filter issue,Scaled up API servers to handle increased load,Spam filter issue,8.318991337070258,3,1,False,False,True,False,False,True,False,False,2024-04-05 16:36:21.240047
+Memory leak in application server,Replaced faulty disk and restored database from backup,Authentication service bug,7.906979488645616,2,1,True,False,False,False,False,False,True,False,2024-05-13 16:36:21.240047
+Power outage affecting data center operations,Secured user accounts and investigated breach,Network failure,5.473062552047957,4,0,True,False,False,False,False,False,False,True,2024-02-22 16:36:21.240047
+Memory leak in application server,Scaled up resources to handle peak traffic,Spam filter issue,14.343351648425035,2,1,False,False,False,True,False,True,False,False,2024-05-01 16:36:21.240047
+Server outage caused by network failure,Fixed memory leak and restarted application server,Spam filter issue,9.822511605255011,2,0,False,False,True,False,False,False,False,True,2024-04-23 16:36:21.240047
+Memory leak in application server,Restored power and restarted affected systems,Disk failure,5.5455522929033965,4,1,False,True,False,False,False,False,True,False,2024-03-25 16:36:21.240047
+Network congestion leading to slow internet,Scaled up resources to handle peak traffic,High traffic,2.7229237094896774,1,1,False,True,False,False,True,False,False,False,2024-04-08 16:36:21.240047
+Network congestion leading to slow internet,Replaced faulty disk and restored database from backup,Network congestion,5.111281832596145,1,0,False,False,True,False,False,False,True,False,2024-04-04 16:36:21.240047
+Network congestion leading to slow internet,Secured user accounts and investigated breach,Hardware issue,9.399863651402102,2,0,True,False,False,False,False,True,False,False,2024-03-28 16:36:21.240047
+Memory leak in application server,Secured user accounts and investigated breach,Power outage,4.448529502218449,2,0,True,False,False,False,False,False,True,False,2024-02-20 16:36:21.240047
+Security breach detected in user accounts,Rebooted server and reset network configurations,Hardware issue,5.217677325721935,4,0,False,False,True,False,False,False,True,False,2024-03-02 16:36:21.240047
+Power outage affecting data center operations,Replaced faulty disk and restored database from backup,Power outage,9.503227731544918,1,1,False,True,False,False,True,False,False,False,2024-03-25 16:36:21.240047
+High latency observed during peak hours,Patched software to fix the bug,Network congestion,8.17962829517372,1,0,True,False,False,False,True,False,False,False,2024-03-23 16:36:21.240047
+User login issues reported,Fixed memory leak and restarted application server,Security breach,4.031358297383577,2,0,False,False,True,False,False,False,True,False,2024-03-13 16:36:21.240047
+Software bug causing intermittent crashes,Rebooted server and reset network configurations,High traffic,6.122021060201625,4,1,False,True,False,False,False,True,False,False,2024-05-05 16:36:21.240047
+API response times increased during peak hours,Fixed memory leak and restarted application server,High traffic,6.482461116024555,4,0,False,True,False,False,True,False,False,False,2024-03-17 16:36:21.240047
+Power outage affecting data center operations,Fixed user authentication service,Spam filter issue,8.556899262010674,3,0,False,False,True,False,True,False,False,False,2024-04-04 16:36:21.240047
+Email service outage due to spam filter issue,Restored power and restarted affected systems,Software bug,4.010672703194439,3,1,False,False,True,False,False,False,True,False,2024-02-19 16:36:21.240047
+Disk failure on primary database server,Replaced faulty disk and restored database from backup,Hardware issue,6.809891197578482,4,1,False,False,True,False,False,True,False,False,2024-02-27 16:36:21.240047
+Security breach detected in user accounts,Replaced faulty hardware components,High traffic,10.318890269946198,3,0,False,False,False,True,False,True,False,False,2024-05-15 16:36:21.240047
+API response times increased during peak hours,Secured user accounts and investigated breach,High traffic,-1.9242725205905913,1,0,False,False,False,True,False,True,False,False,2024-03-05 16:36:21.240047
+Email service outage due to spam filter issue,Optimized network traffic routing and cleared congestion,Hardware issue,10.539689017040162,4,1,True,False,False,False,True,False,False,False,2024-03-29 16:36:21.240047
+High latency observed during peak hours,Replaced faulty hardware components,Power outage,7.1939201719875925,3,0,False,False,True,False,False,False,True,False,2024-03-29 16:36:21.240047
+API response times increased during peak hours,Patched software to fix the bug,Disk failure,3.9569797686665527,1,0,True,False,False,False,False,False,True,False,2024-03-02 16:36:21.240047
+User login issues reported,Secured user accounts and investigated breach,Software bug,7.094736370770432,4,1,False,False,True,False,False,False,True,False,2024-05-03 16:36:21.240047
+Disk failure on primary database server,Patched software to fix the bug,Disk failure,1.007888697268446,2,0,False,True,False,False,False,False,False,True,2024-02-18 16:36:21.240047
+User login issues reported,Fixed user authentication service,Hardware issue,4.013420274275359,1,1,False,False,False,True,False,False,False,True,2024-02-17 16:36:21.240047
+Power outage affecting data center operations,Replaced faulty disk and restored database from backup,High traffic,6.176740623263127,3,0,False,True,False,False,False,True,False,False,2024-05-02 16:36:21.240047
+Software bug causing intermittent crashes,Rebooted server and reset network configurations,High traffic,22.387585165800154,2,0,False,True,False,False,False,False,True,False,2024-04-13 16:36:21.240047
+User login issues reported,Rebooted server and reset network configurations,Network congestion,7.788690602720874,2,0,False,True,False,False,False,True,False,False,2024-02-21 16:36:21.240047
+Power outage affecting data center operations,Fixed user authentication service,Power outage,9.974510704908123,4,1,True,False,False,False,True,False,False,False,2024-05-08 16:36:21.240047
+Memory leak in application server,Replaced faulty disk and restored database from backup,Software bug,5.7252643335723405,4,1,True,False,False,False,False,True,False,False,2024-02-20 16:36:21.240047
+Database crash due to hardware issue,Fixed memory leak and restarted application server,Software bug,5.757614646075076,3,1,False,True,False,False,False,False,True,False,2024-04-02 16:36:21.240047
+Database crash due to hardware issue,Secured user accounts and investigated breach,Memory leak,4.038365670176386,2,1,False,False,True,False,False,False,True,False,2024-03-03 16:36:21.240047
+Disk failure on primary database server,Rebooted server and reset network configurations,Spam filter issue,8.701348392459774,4,1,False,False,True,False,False,True,False,False,2024-04-11 16:36:21.240047
+Database crash due to hardware issue,Patched software to fix the bug,Resource bottleneck,7.8590588166934285,4,1,False,False,False,True,False,False,False,True,2024-03-25 16:36:21.240047
+User login issues reported,Restored power and restarted affected systems,Resource bottleneck,8.62498565863612,2,0,False,False,False,True,False,True,False,False,2024-03-02 16:36:21.240047
+Database crash due to hardware issue,Adjusted spam filter settings and restored service,Network failure,5.635001544221273,2,0,False,True,False,False,False,False,True,False,2024-03-30 16:36:21.240047
+Email service outage due to spam filter issue,Patched software to fix the bug,High traffic,4.606376472372096,4,0,False,True,False,False,False,True,False,False,2024-03-05 16:36:21.240047
+API response times increased during peak hours,Adjusted spam filter settings and restored service,Network congestion,2.019512146039421,4,1,True,False,False,False,False,False,True,False,2024-03-18 16:36:21.240047
+Network congestion leading to slow internet,Fixed memory leak and restarted application server,Power outage,5.976043556813005,2,0,False,False,False,True,False,True,False,False,2024-02-25 16:36:21.240047
+Network congestion leading to slow internet,Optimized network traffic routing and cleared congestion,Hardware issue,8.513128485932704,1,0,False,False,False,True,False,True,False,False,2024-03-07 16:36:21.240047
+Software bug causing intermittent crashes,Replaced faulty disk and restored database from backup,Spam filter issue,9.300194630656794,3,1,False,False,False,True,False,False,True,False,2024-05-12 16:36:21.240047
+Server outage caused by network failure,Scaled up API servers to handle increased load,Authentication service bug,8.772772016197527,1,0,False,False,False,True,False,False,False,True,2024-02-28 16:36:21.240047
+API response times increased during peak hours,Scaled up API servers to handle increased load,Network failure,13.084853783953637,1,1,False,True,False,False,False,True,False,False,2024-04-20 16:36:21.240047
+Server outage caused by network failure,Rebooted server and reset network configurations,High traffic,8.623367699033135,3,1,False,True,False,False,False,False,False,True,2024-05-07 16:36:21.240047
+API response times increased during peak hours,Fixed memory leak and restarted application server,Spam filter issue,6.161512865200992,4,1,False,False,True,False,False,True,False,False,2024-05-01 16:36:21.240047
+Power outage affecting data center operations,Restored power and restarted affected systems,Memory leak,9.573116000544411,4,0,False,False,False,True,False,False,False,True,2024-03-24 16:36:21.240047
+Memory leak in application server,Fixed memory leak and restarted application server,Security breach,11.019581819504351,1,0,False,False,True,False,False,True,False,False,2024-04-07 16:36:21.240047
+Database crash due to hardware issue,Adjusted spam filter settings and restored service,Hardware issue,12.816892296511838,4,0,False,True,False,False,False,False,True,False,2024-05-09 16:36:21.240047
+Server outage caused by network failure,Fixed user authentication service,Disk failure,8.507092572261715,2,0,False,False,True,False,False,True,False,False,2024-02-21 16:36:21.240047
+Memory leak in application server,Scaled up resources to handle peak traffic,Power outage,4.828210395895616,1,0,False,False,True,False,False,False,False,True,2024-03-13 16:36:21.240047
+Memory leak in application server,Scaled up resources to handle peak traffic,Network congestion,12.283628331643811,1,0,True,False,False,False,False,False,False,True,2024-04-15 16:36:21.240047
+High latency observed during peak hours,Restored power and restarted affected systems,Memory leak,9.365103067235662,2,1,False,True,False,False,False,False,True,False,2024-04-17 16:36:21.240047
+Network congestion leading to slow internet,Fixed memory leak and restarted application server,Spam filter issue,1.282837848497327,1,1,False,False,True,False,False,False,True,False,2024-03-22 16:36:21.240047
+Memory leak in application server,Secured user accounts and investigated breach,Hardware issue,21.49138696980439,1,1,False,True,False,False,False,False,False,True,2024-04-12 16:36:21.240047
+API response times increased during peak hours,Fixed user authentication service,Memory leak,12.840911695758631,4,0,False,False,True,False,False,True,False,False,2024-05-15 16:36:21.240047
+User login issues reported,Fixed user authentication service,Spam filter issue,9.31038957048527,1,1,True,False,False,False,False,False,False,True,2024-03-18 16:36:21.240047
+Disk failure on primary database server,Fixed user authentication service,Security breach,20.248719970827743,2,1,True,False,False,False,False,False,True,False,2024-04-11 16:36:21.240047
+Email service outage due to spam filter issue,Restored power and restarted affected systems,Resource bottleneck,10.578325677155304,2,1,False,True,False,False,False,True,False,False,2024-05-13 16:36:21.240047
+API response times increased during peak hours,Scaled up resources to handle peak traffic,Network failure,7.867242655000781,4,1,False,True,False,False,True,False,False,False,2024-03-25 16:36:21.240047
+API response times increased during peak hours,Restored power and restarted affected systems,High traffic,8.381203450699038,3,0,False,False,True,False,False,False,True,False,2024-04-02 16:36:21.240047
+Email service outage due to spam filter issue,Secured user accounts and investigated breach,Power outage,5.365845532618147,2,0,False,False,False,True,False,False,False,True,2024-04-07 16:36:21.240047
+User login issues reported,Secured user accounts and investigated breach,Network congestion,7.981527699917593,1,0,False,True,False,False,True,False,False,False,2024-03-03 16:36:21.240047
+Disk failure on primary database server,Scaled up resources to handle peak traffic,Security breach,5.012714031669553,2,0,True,False,False,False,True,False,False,False,2024-02-23 16:36:21.240047
